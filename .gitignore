@@ -3,12 +3,13 @@
 ################################################################################
 
 /.vs/RhetosCLI/v15/Server/sqlite3
-/RhetosCLI/bin/Debug
-/RhetosCLI/obj/Debug
+/RhetosCLI/bin/
+/RhetosCLI/obj/
+/RhetosCLITests/bin/
+/RhetosCLITests/obj/
 *.suo
 /packages
 /RhetosCLI/*.user
 /RhetosCLITests/bin/Debug
 /RhetosCLITests/obj/Debug
 /.vs
-/RhetosCLI/obj
